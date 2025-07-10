@@ -13,8 +13,10 @@ I'm Humberto, a fullstack developer with a strong passion for frontend experienc
 
 ## 🧰 Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,py,django,nodejs,express,sqlite,mysql,git,github,vscode,figma,linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/i=icons?bootstrap,css,gulp,js,jquery,less,nextjs,nodejs,py,react,sass,ts,vite,windicss," />
+  </a>
 </p>
 
 ---
@@ -22,44 +24,9 @@ I'm Humberto, a fullstack developer with a strong passion for frontend experienc
 ## 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/i=icons?linkedin" />
   </a>
 </p>
 
 ---
-
-# 👋 Olá!
-
-Sou Humberto, desenvolvedor fullstack com maior afinidade no desenvolvimento frontend.
-
----
-
-🚀 Foco em React, JavaScript e construção de interfaces limpas e responsivas  
-🧩 Experiência no desenvolvimento de aplicações completas do zero  
-🎨 Apaixonado por design de interfaces e experiência do usuário  
-🛠️ Em constante aprendizado e evolução a cada projeto  
-
----
-
-## 🧰 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,py,django,nodejs,express,sqlite,mysql,git,github,vscode,figma,linux" />
-</p>
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
