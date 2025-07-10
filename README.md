@@ -19,19 +19,13 @@ I'm Humberto, a fullstack developer with a strong passion for frontend experienc
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/i=icons?bootstrap,css,gulp,js,jquery,less,nextjs,nodejs,py,react,sass,ts,vite,windicss," />
-  </a>
-</p>
-
 ---
 
 ## 📫 Contact
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/i=icons?linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
