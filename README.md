@@ -1,17 +1,15 @@
 # 👋 Welcome!
 
-I'm Humberto, a fullstack developer with a strong passion for frontend experiences.
+I'm **Humberto**, a fullstack developer with a strong passion for frontend experiences.
 
 ---
 
-🚀 Focused on React, JavaScript, and building clean, responsive UIs  
-🧩 Skilled in developing fullstack applications from scratch  
-🎨 Passionate about UX/UI design and delivering smooth user experiences  
-🛠️ Constantly learning and improving with every project  
+- 🚀 Focus on **React**, **JavaScript**, and frontend development  
+- 🧩 Skilled in developing fullstack applications from scratch
+- 🛠️ Constantly learning and improving with every project
+
 
 ---
-
-## 🧰 Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,8 +18,6 @@ I'm Humberto, a fullstack developer with a strong passion for frontend experienc
 </p>
 
 ---
-
-## 📫 Contact
 
 <p align="left">
   <a href="https://skillicons.dev">
