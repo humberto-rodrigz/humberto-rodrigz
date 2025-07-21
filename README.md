@@ -6,6 +6,7 @@
 - Experienced in building Fullstack applications from scratch.
 - Committed to continuous learning and professional growth.
 <br>
+
 ---
 
 <p align="center">
